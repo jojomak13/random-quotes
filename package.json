@@ -2,7 +2,7 @@
   "name": "random-quotes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jojomak13.github.io/random-quotes",
+  "homepage": "http://joseph-makram.github.io/random-quotes",
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.9.0",
